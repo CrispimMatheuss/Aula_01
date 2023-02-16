@@ -33,5 +33,28 @@ public class Operadores {
         System.out.println("Expressão 2: " + expressao2);
         System.out.println("########## EXPRESSÕES ##########");
 
+        System.out.println("");
+        System.out.println("");
+
+        System.out.println("########## CONDICIONAIS ##########");
+        boolean igual = a == b;
+        System.out.println("Igualdade: " + igual);
+
+        boolean diferente = a != b;
+        System.out.println("Diferente: " + diferente);
+
+        boolean maior = a > b;
+        System.out.println("Maior: " + maior);
+
+        boolean menor = a < b;
+        System.out.println("Menor: " + menor);
+
+        boolean maiorIgual = a >= b;
+        System.out.println("Maior Igual: " + maiorIgual);
+
+        boolean menorIgual = a <= b;
+        System.out.println("Menor Igual: " + menorIgual);
+        System.out.println("########## CONDICIONAIS ##########");
+
     }
 }
