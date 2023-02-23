@@ -4,6 +4,9 @@ public class Media {
 
         if (nota >= 7.0){
             System.out.println("Aprovado!");
+            if (nota >= 9.0){
+                System.out.println("Parabéns!");
+            }
         } else {
             if (nota < 5){
                 System.out.println("Reprovado!");
