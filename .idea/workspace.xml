@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91066260-f993-4b2d-a5d7-faa10d4be029" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/src/Altura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Temperatura.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Media.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +42,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.For">
-    <configuration name="Altura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Altura" />
+  <component name="RunManager" selected="Application.ArraysList">
+    <configuration name="ArraysList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysList" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NewMain" />
+    <configuration name="Temperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temperatura" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysList" />
+        <item itemvalue="Application.Temperatura" />
         <item itemvalue="Application.For" />
         <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.While" />
-        <item itemvalue="Application.Altura" />
-        <item itemvalue="Application.NewMain" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677107407751</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="a">
+      <created>1677189821662</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677189821663</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
