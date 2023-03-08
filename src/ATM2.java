@@ -4,17 +4,12 @@ public class ATM2 {
     public static void main(String[] args) {
         int[] cedulas = {200, 100, 50, 20, 10, 5, 2, 1};
         int[] qtdCedula = {0, 0, 0, 10, 2, 1, 1, 1};
-        int valorReais = 0;
         int qtdeAtm = 0;
-        int qtdRetirada = 0;
-        int valorSacado = 0;
-        int quantidadeCedulas = 0;
-        boolean sacou = false;
 
         Scanner s = new Scanner(System.in);
 
         System.out.print("Digite o valor do saque: ");
-        valorReais = Integer.parseInt(s.nextLine());
+        int valorReais = Integer.parseInt(s.nextLine());
 
 
         for (int i = 0; i < qtdCedula.length; i++) {
@@ -26,10 +21,10 @@ public class ATM2 {
         } else {
 
             for (int i = 0; i < cedulas.length; i++) {
-                quantidadeCedulas = valorReais / cedulas[i];
-                qtdRetirada = 0;
-                valorSacado = 0;
-                sacou = false;
+                int quantidadeCedulas = valorReais / cedulas[i];
+                int qtdRetirada = 0;
+                int valorSacado = 0;
+                boolean sacou = false;
 
                 if (valorReais > 0 && valorReais >= cedulas[i]) {
 
