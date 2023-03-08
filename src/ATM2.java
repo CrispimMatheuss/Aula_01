@@ -36,10 +36,10 @@ public class ATM2 {
                     while (qtdCedula[i] > 0 && quantidadeCedulas != qtdRetirada) {
                         qtdRetirada++;
                         qtdCedula[i] -= 1;
-                        valorSacado += 1 * cedulas[i];
                         sacou = true;
                     }
                     if (sacou) {
+                        valorSacado += qtdRetirada * cedulas[i];
                         valorReais -= valorSacado;
                         System.out.println("Quantidade de cedulas de " + cedulas[i] + ": " + qtdRetirada);
                     }
