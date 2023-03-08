@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91066260-f993-4b2d-a5d7-faa10d4be029" name="Changes" comment="Aula da Cris">
-      <change afterPath="$PROJECT_DIR$/src/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Scan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+    <list default="true" id="91066260-f993-4b2d-a5d7-faa10d4be029" name="Changes" comment="Aula do Bruno">
+      <change afterPath="$PROJECT_DIR$/src/ATM2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrayys2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrayys4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CaixaEletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pilhas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,44 +38,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "proofread"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Scan">
-    <configuration name="ArraysList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysList" />
+}</component>
+  <component name="RunManager" selected="Application.ATM2">
+    <configuration name="ATM2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATM2" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Break" />
+    <configuration name="Arrayys2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrayys2" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BreakContinue" />
+    <configuration name="Arrayys4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrayys4" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scan" />
+    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaixaEletronico" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+    <configuration name="Pilhas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pilhas" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Scan" />
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.BreakContinue" />
-        <item itemvalue="Application.Break" />
-        <item itemvalue="Application.ArraysList" />
+        <item itemvalue="Application.ATM2" />
+        <item itemvalue="Application.CaixaEletronico" />
+        <item itemvalue="Application.Arrayys4" />
+        <item itemvalue="Application.Arrayys2" />
+        <item itemvalue="Application.Pilhas" />
       </list>
     </recent_temporary>
   </component>
@@ -148,12 +149,31 @@
       <option name="project" value="LOCAL" />
       <updated>1677199895317</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aula do Bruno">
+      <created>1677540296188</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677540296188</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
     <MESSAGE value="Aula da Cris" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula da Cris" />
+    <MESSAGE value="Aula do Bruno" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula do Bruno" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ATM2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
