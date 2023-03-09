@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91066260-f993-4b2d-a5d7-faa10d4be029" name="Changes" comment="Aula do Bruno e da cris">
+      <change afterPath="$PROJECT_DIR$/src/Exe01_03_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exe02_03_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ATM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ATM2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678316511197</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Aula do Bruno e da cris">
+      <created>1678316594498</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678316594498</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Aula do Bruno e da cris">
+      <created>1678316601266</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678316601266</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -174,16 +191,5 @@
     <MESSAGE value="Aula do Bruno" />
     <MESSAGE value="Aula do Bruno e da cris" />
     <option name="LAST_COMMIT_MESSAGE" value="Aula do Bruno e da cris" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ATM2.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

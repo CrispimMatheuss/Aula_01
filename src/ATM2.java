@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ATM2 {
     public static void main(String[] args) {
         int[] cedulas = {200, 100, 50, 20, 10, 5, 2, 1};
-        int[] qtdCedula = {0, 0, 0, 10, 2, 1, 1, 1};
+        int[] qtdCedula = {5, 1, 1, 44, 2, 1, 1, 1};
         int qtdeAtm = 0;
 
         Scanner s = new Scanner(System.in);
