@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91066260-f993-4b2d-a5d7-faa10d4be029" name="Changes" comment="Aula do Bruno e da cris">
-      <change afterPath="$PROJECT_DIR$/src/ExercicioFilaCris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayysBidimensionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayysMultidimensionais.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExercicioFilaCris">
+  <component name="RunManager" selected="Application.ArrayysMultidimensionais">
     <configuration name="ATM2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ATM2" />
       <module name="Aula_01" />
@@ -49,15 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrayys2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrayys2" />
+    <configuration name="ArrayysBidimensionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayysBidimensionais" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arrayys4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrayys4" />
+    <configuration name="ArrayysMultidimensionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayysMultidimensionais" />
       <module name="Aula_01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayysMultidimensionais" />
+        <item itemvalue="Application.ArrayysBidimensionais" />
         <item itemvalue="Application.ExercicioFilaCris" />
         <item itemvalue="Application.ATM2" />
         <item itemvalue="Application.CaixaEletronico" />
-        <item itemvalue="Application.Arrayys4" />
-        <item itemvalue="Application.Arrayys2" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678401284367</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Aula do Bruno e da cris">
+      <created>1678487039733</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678487039733</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
