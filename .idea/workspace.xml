@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91066260-f993-4b2d-a5d7-faa10d4be029" name="Changes" comment="Aula do Bruno e da cris">
-      <change afterPath="$PROJECT_DIR$/src/ArrayysBidimensionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayysMultidimensionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListaDeDatas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bigDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayysMultidimensionais">
-    <configuration name="ATM2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ATM2" />
-      <module name="Aula_01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListaDeDatas">
     <configuration name="ArrayysBidimensionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayysBidimensionais" />
       <module name="Aula_01" />
@@ -64,13 +57,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaixaEletronico" />
-      <module name="Aula_01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ExercicioFilaCris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExercicioFilaCris" />
       <module name="Aula_01" />
@@ -78,13 +64,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ListaDeDatas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaDeDatas" />
+      <module name="Aula_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bigDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bigDecimal" />
+      <module name="Aula_01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListaDeDatas" />
+        <item itemvalue="Application.bigDecimal" />
         <item itemvalue="Application.ArrayysMultidimensionais" />
         <item itemvalue="Application.ArrayysBidimensionais" />
         <item itemvalue="Application.ExercicioFilaCris" />
-        <item itemvalue="Application.ATM2" />
-        <item itemvalue="Application.CaixaEletronico" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678487039733</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Aula do Bruno e da cris">
+      <created>1678746286369</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678746286369</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
